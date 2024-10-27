@@ -1,6 +1,10 @@
 # 12th wikidata birthday pop
 A confetti popper for 12th Wikidata Birthday . This repository contains a sample html, css and javascript setup to create a webpage that has text with Wikidata logo colors in the background.
 
+## Preview
+
+**[View Live Preview](https://wikimedians-of-kerala.github.io/12th-wikidata-birthday-pop/)**
+
 ## About
 
 This animation was created as a birthday gift at [Wikidata's 12th birthday](https://www.wikidata.org/wiki/Wikidata:Twelfth_Birthday).
